@@ -13,5 +13,3 @@
 </div><br/>
 
 Apaixonado por tecnologia, leitura, neurociência e idiomas.
-![tumblr_inline_ok28zo9fBO1t9bsnt_250](https://user-images.githubusercontent.com/93887857/158921919-9fb07c1a-9aa9-4901-a97a-2daf7ced7413.gif)
-
