@@ -14,5 +14,4 @@
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
   
 </div><br/>
-
 Apaixonado por tecnologia, leitura, neurociência e idiomas.
