@@ -48,9 +48,10 @@
    <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
 </div>
 </h4>
-<div>
+
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+</div><br/>
 <h4 align='center'>
 Entusiasta pela tecnologia, leitura, neurociência e idiomas.
 </h4>
