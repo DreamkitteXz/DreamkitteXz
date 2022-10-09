@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2 align='center'>
- 💬 Entre em contato!
+ 🗣️ Entre em contato!
 </h2>
 
 <p align='center'>
