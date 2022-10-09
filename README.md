@@ -7,6 +7,20 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2 align='center'>
+ 💬 Entre em contato!
+</h2>
+
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/kayque-amado-2689b8225/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kayque_sfa/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+<h2 align='center'>
  🚀 Tecnologias que estou aprendendo!
 </h2>
 <h4 align='center'>
