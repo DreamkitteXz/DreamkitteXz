@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DreamkitteXz&color=yellow" alt="Profile views" /> </p>
 <h2 align='center'>
   ⭐ Minhas estatisticas:
 </h2>
