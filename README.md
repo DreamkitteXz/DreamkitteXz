@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
 <h2 align='center'>
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> Minhas estatísticas</h1>
@@ -9,6 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&theme=vision-friendly-dark&hide_langs_below=1"/>
 </div>
 <h2 align='center'>
+  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
   <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Entre em contato!</h1>
 
 <p align='center'>
