@@ -23,7 +23,7 @@
   
 </p>
 <h2 align='center'>
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="30px"> Tecnologias que estou aprendendo!</h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="30px"> Technologies I'm learning!</h1>
   
 </h2>
 <h4 align='center'>
@@ -48,7 +48,7 @@
 </div>
 </h4>
 <h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="30px"> Other Stuffs!</h2>
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="30px"> Other Stuff!</h2>
 </h4>
 <h4 align='center'>
   <div>
