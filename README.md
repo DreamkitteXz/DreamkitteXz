@@ -58,9 +58,9 @@
 </h4>
 
 <h4 align='center'>
- <div>
+ 
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
-</div><br/>
+
 <h4 align='center'>
 Enthusiastic about technology, reading, neuroscience and languages.
 </h4>
