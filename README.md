@@ -27,7 +27,7 @@
   
 </h2>
 <h4 align='center'>
- 🖥️ Front-end:
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="30px"> Front-end:</h2>
 </h4>
 <h4 align='center'>
 <div>
@@ -39,7 +39,7 @@
 </div>
 </h4>
 <h4 align='center'>
- ⚙️ Backend | Database
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="30px"> Backend | Database</h2>
 </h4>
 <h4 align='center'>
   <div>
@@ -48,23 +48,19 @@
 </div>
 </h4>
 <h4 align='center'>
-<img align="center" alt="Kayque-Python" height="20" width="20" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png"> Microcontrollers:
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="30px"> Other Stuffs!</h2>
 </h4>
 <h4 align='center'>
   <div>
   <a href = "#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
   </div>
 </h4>
 
 <h4 align='center'>
  <div>
   <img align="center" alt="Kayque-Arduino" height="30" width="30" src="https://img.icons8.com/external-pseudo-solid-zulfa-mahendra/344/external-ar-metaverse-pseudo-solid-zulfa-mahendra.png"> AR
-</h4>
-<h4 align='center'>
-<div>
-   <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-</div>
-</h4>
+   
 
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
   
