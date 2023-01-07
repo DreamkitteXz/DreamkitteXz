@@ -1,6 +1,9 @@
 <h1 align='center'>
   Hello there 👋 I'm Kayque
 </h1>
+<h2 align='center'>
+  ⭐ Minhas estatisticas:
+</h2>
 <div align="center">
   <a href="https://github.com/DreamkitteXz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
