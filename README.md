@@ -9,8 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&theme=blue-green&hide_langs_below=1"/>
 </div>
 <h2 align='center'>
- 🗣️ Entre em contato!
-</h2>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Entre em contato!</h1>
 
 <p align='center'>
  
@@ -23,7 +22,8 @@
   
 </p>
 <h2 align='center'>
- 🚀 Tecnologias que estou aprendendo!
+  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="30px"> Tecnologias que estou aprendendo!</h1>
+  
 </h2>
 <h4 align='center'>
  🖥️ Front-end:
