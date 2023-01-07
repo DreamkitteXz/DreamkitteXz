@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
 <h2 align='center'>
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> Minhas estatísticas</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> My Stats</h1>
   
 <div align="center">
   <a href="https://github.com/DreamkitteXz">
@@ -10,7 +10,7 @@
 </div>
 <h2 align='center'>
   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Entre em contato!</h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Get in Touch!</h1>
 
 <p align='center'>
  
@@ -59,12 +59,8 @@
 
 <h4 align='center'>
  <div>
-  <img align="center" alt="Kayque-Arduino" height="30" width="30" src="https://img.icons8.com/external-pseudo-solid-zulfa-mahendra/344/external-ar-metaverse-pseudo-solid-zulfa-mahendra.png"> AR
-   
-
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
-  
 </div><br/>
 <h4 align='center'>
-Entusiasta pela tecnologia, leitura, neurociência e idiomas.
+Enthusiastic about technology, reading, neuroscience and languages.
 </h4>
