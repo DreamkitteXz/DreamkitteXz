@@ -1,9 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DreamkitteXz&color=yellow" alt="Profile views" /> </p>
 <h2 align='center'>
-  ⭐ Minhas estatisticas:
-</h2>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> Minhas estatísticas</h1>
+  
 <div align="center">
   <a href="https://github.com/DreamkitteXz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
