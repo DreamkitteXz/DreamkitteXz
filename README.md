@@ -5,8 +5,8 @@
   
 <div align="center">
   <a href="https://github.com/DreamkitteXz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&theme=blue-green&hide_langs_below=1"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&theme=vision-friendly-dark&hide_langs_below=1"/>
 </div>
 <h2 align='center'>
   <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Entre em contato!</h1>
