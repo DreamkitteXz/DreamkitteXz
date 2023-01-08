@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
-<h2 align='center'>
+ <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d73d19a535bb21b6596aa3c9878eed9a/raw/31e4df8fe3f62625d6a681b4f322ba9e5107c23c/carbon.svg" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> My Stats</h1>
   
 <div align="center">
