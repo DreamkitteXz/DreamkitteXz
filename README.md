@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
- <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d73d19a535bb21b6596aa3c9878eed9a/raw/31e4df8fe3f62625d6a681b4f322ba9e5107c23c/carbon.svg" />
+<img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> My Stats</h1>
   
 <div align="center">
@@ -54,7 +54,6 @@
   <div>
   <a href = "#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)" target="_blank"></a> 
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"</a> 
   </h4>
   </div>
