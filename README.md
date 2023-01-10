@@ -50,7 +50,7 @@
 <h4 align='center'>
  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="30px"> Other Stuff!</h2>
 </h4>
-<h4 align='center'>
+<h4 align='left'>
   <div>
   <a href = "#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
