@@ -62,5 +62,5 @@
   ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
 
 <h4 align='center'>
-Enthusiastic about technology, reading, neuroscience and languages.
+Enthusiastic about technology, reading, Neuroscience and Languages.
 </h4>
