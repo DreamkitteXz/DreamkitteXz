@@ -10,8 +10,8 @@
 </div>
 <h2 align='center'>
   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
-  <a href="https://github.com/DreamkitteXz">    
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=DreamkitteXz&style=for-the-badge"/></a>
+  <p align="center"><a href="https://github.com/DreamkitteXz">    
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=DreamkitteXz&style=for-the-badge"/></a></p>
   <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Get in Touch!</h1>
 
 <p align='center'>
