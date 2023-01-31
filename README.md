@@ -1,7 +1,7 @@
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h2>
+<h2 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Kayque</h2>
 <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> My Stats</h1>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="20px"> My Stats</h2>
   
 <div align="center">
   <a href="https://github.com/DreamkitteXz">
@@ -12,7 +12,7 @@
   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
   <p align="center"><a href="https://github.com/DreamkitteXz">    
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=DreamkitteXz&style=for-the-badge"/></a></p>
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="30px"> Get in Touch!</h1>
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="25px"> Get in Touch!</h2>
 
 <p align='center'>
  
@@ -25,11 +25,11 @@
   
 </p>
 <h2 align='center'>
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="30px"> Technologies I'm learning!</h1>
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25px"> Technologies I'm learning!</h2>
   
 </h2>
 <h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="30px"> Front-end:</h2>
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="25px"> Front-end:</h2>
 </h4>
 <h4 align='center'>
 <div>
@@ -41,7 +41,7 @@
 </div>
 </h4>
 <h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="30px"> Backend | Database</h2>
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="25px"> Backend | Database</h2>
 </h4>
 <h4 align='center'>
   <div>
@@ -50,7 +50,7 @@
 </div>
 </h4>
 <h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="30px"> Other Stuff!</h2>
+ <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="25px"> Other Stuff!</h2>
 </h4>
 <h4 align='left'>
   <div>
