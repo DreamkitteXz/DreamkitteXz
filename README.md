@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h1>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayque</h2>
 <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="30px"> My Stats</h1>
   
