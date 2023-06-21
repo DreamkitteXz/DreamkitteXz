@@ -3,14 +3,14 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" width="5000" height="250" />
+<img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
 
 ---
 
 ## **About me:**
 
 - 🛰️ I'm currently studing **Telecommunications** at ***[ETEFMC](https://etefmc.com.br)*** 
-- 📚 Always learning some technology
+- 📚 Always learning some technology 
 <img align='right' src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="230">
 - 👩🏻‍💻 I'm currently learning: **ESP32 with ESP-IDF | C | FreeRTOS | Embedded system** 
 - 🔭 Always learning some technology 
