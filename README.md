@@ -12,6 +12,7 @@
 - 🛰️ I'm currently studing **Telecommunications** at ***[ETEFMC](https://etefmc.com.br)*** 
 - 📚 Always learning some technology 
 <img align='right' src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="230">
+
 - 👩🏻‍💻 I'm currently learning: **ESP32 with ESP-IDF | C | FreeRTOS | Embedded system** 
 - 🔭 Always learning some technology 
 - 📔 A few experiences with ***#Flutter, #Dart, #POO, #MCU's***
