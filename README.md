@@ -1,70 +1,56 @@
 
-<h2 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Kayque</h2>
+## Hello, folks! 👋
+
+---
+
 <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" height="20px"> My Stats</h2>
-  
-<div align="center">
-  <a href="https://github.com/DreamkitteXz">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=vision-friendly-dark&count_private=true"/>
-</div>
-<h2 align='center'>
-  <img align="right" height="550em" src="https://raw.githubusercontent.com/gist/DreamkitteXz/423bea07307a4c7b0b7bf07e0ee8c9c8/raw/5e9770c9e1291db79b9ec85067333c7b490bbded/Gistgithub.svg"/>
-  <p align="center"><a href="https://github.com/DreamkitteXz">    
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=DreamkitteXz&style=for-the-badge"/></a></p>
-  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" height="25px"> Get in Touch!</h2>
 
-<p align='center'>
- 
-  <a href="https://www.linkedin.com/in/kayque-amado-2689b8225/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kayque_sfa/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-<h2 align='center'>
-  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25px"> Technologies I'm learning!</h2>
-  
-</h2>
-<h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" height="25px"> Front-end:</h2>
-</h4>
-<h4 align='center'>
-<div>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-</div>
-</h4>
-<h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="25px"> Backend | Database</h2>
-</h4>
-<h4 align='center'>
-  <div>
- <a href = "#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
- <a href = "#"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank"></a>
-</div>
-</h4>
-<h4 align='center'>
- <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" height="25px"> Other Stuff!</h2>
-</h4>
-<h4 align='left'>
-  <div>
-  <a href = "#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"</a> 
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"</a>  
-   
-  </h4>
-  </div>
-<h4 align='center'>
- 
-  ![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
+---
 
-<h4 align='center'>
-Enthusiastic about technology, reading, Neuroscience and Languages.
-</h4>
+## **About me:**
+
+- I'm currently studing **Telecommunications** at ***[ETEFMC](https://etefmc.com.br)*** 🛰️
+- Always learning some technology 📚
+- I'm currently learning: **ESP32 with ESP-IDF | C | FreeRTOS | Embedded system** 👩🏻‍💻
+- Always learning some technology 🔭
+- A few experiences with ***#Flutter, #Dart, #POO, #MCU's***📔
+- Neuroscience enthusiastic 🧠
+
+![GitHub followers](https://img.shields.io/github/followers/DreamkitteXz.svg?style=social&label=Follow&maxAge=2592000)
+![GitHub User's stars](https://img.shields.io/github/stars/DreamkitteXz)
+  
+## **Contact:**
+
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Kayque&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayque-amado/)](www.linkedin.com/in/kayque-amado/)
+
+## **Languages and Tools:**
+---
+<div align="center" style="display: inline_block"><br>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Node" title="Node" width="40">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Node" title="Node" width="40">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Node" title="Node" width="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Node" title="Node" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Node" title="Node" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Node" title="Node" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Node" title="Node" width="40">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Node" title="Node" width="40">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Node" title="Node" width="40">
+</div>
+
+---
+
+- 🔭 I’m currently working on [OBSAT-2023](https://github.com/DreamkitteXz/OBSAT-2023)
+
+## **GitHub Stats**
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=blue-green&count_private=true"/>
+
+---
+
+![Snake animation](https://github.com/DreamkitteXz/DreamkitteXz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+#### Enthusiastic about technology, reading, Neuroscience and Languages.
+
