@@ -15,6 +15,7 @@
 - 📚 Always learning some technology 
 - 👩🏻‍💻 I'm currently learning: **ESP32 with ESP-IDF | C | FreeRTOS | Embedded system** 
 - 📔 Experiences with ***#Flutter, #Dart, #POO, #MCU's, #Embedded Systems, #Embedded Linux***
+- 🔭 I’m currently working on [OBSAT-2023](https://github.com/DreamkitteXz/OBSAT-2023) | 🎖️ |
 - 🧠 Neuroscience enthusiastic 
 
 
@@ -45,12 +46,10 @@
 
 ---
 
-- 🔭 I’m currently working on [OBSAT-2023](https://github.com/DreamkitteXz/OBSAT-2023)
-
 ## **GitHub Stats:**
 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=blue-green&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=blue-green&count_private=true"/>
 
 ---
 
