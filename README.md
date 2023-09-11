@@ -48,8 +48,8 @@
 
 ## **GitHub Stats:**
 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=blue-green&count_private=true"/>
+  <img height="150em" width ="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamkitteXz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" width ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamkitteXz&layout=compact&theme=blue-green&count_private=true"/>
 
 ---
 
