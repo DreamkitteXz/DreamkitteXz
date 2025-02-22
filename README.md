@@ -1,21 +1,22 @@
 
 ## Hello, folks! 👋
 
+<!--
 ---
 
 <img src="https://raw.githubusercontent.com/gist/DreamkitteXz/d737e49ec85f143dbb53138abef4c751/raw/842f5162a1c73a0d84bad2cc317447fc06c31d77/README.svg" />
 
 ---
-
+-->
 ## **About me:**
 
 <img align='right' src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="230">
 
-- 🛰️ I'm currently studing **Telecommunications** at ***[ETEFMC](https://etefmc.com.br)*** 
+- 🛰️ I'm currently studying Computer Engineering at ***[Inatel](https://inatel.br/estudante/)***
 - 📚 Always learning some technology 
-- 👩🏻‍💻 I'm currently learning: **ESP32 with ESP-IDF | C | FreeRTOS | Embedded system** 
-- 📔 Experiences with ***#Flutter, #Dart, #POO, #MCU's, #Embedded Systems, #Embedded Linux***
-- 🔭 I’m currently working on [OBSAT-2023](https://github.com/DreamkitteXz/OBSAT-2023) | 🎖️ |
+- 👩🏻‍💻 I'm currently learning: **FPGA's | Verilog | Digital Systems** 
+- 📔 Experiences with ***#STM32, #ESP32, #Bare Metal Programming, #Embedded Systems, #Flutter, #React***
+- 🔭 Check out my CubeSat project [OBSAT-2023](https://github.com/DreamkitteXz/OBSAT-2023) | 🎖️ |
 - 🧠 Neuroscience enthusiastic 
 
 
@@ -28,10 +29,11 @@
 
 ## **Contact:**
 
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Kayque&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayque-amado/)](www.linkedin.com/in/kayque-amado/)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Kayque&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayque-amado/)](https://www.linkedin.com/in/kayque-amado/)
 
 ## **Languages and Tools:**
 ---
+
 <div align="center" style="display: inline_block"><br>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Node" title="Node" width="40">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Node" title="Node" width="40">
@@ -45,6 +47,15 @@
 </div>
 
 ---
+
+## **Looking For:**
+
+- 🚀 Opportunities in embedded systems, IoT, firmware development and FPGA's Development
+
+- 🔄 Collaborations on open-source projects
+
+- 🌍 Connecting with like-minded developers
+
 
 ## **GitHub Stats:**
 
